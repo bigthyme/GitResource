@@ -5,3 +5,8 @@ This is the official git repository for the training session we had for Git/GitH
 Thanks all and enjoy using Git! 
 
 - Tony
+
+
+====
+
+if you have any questions feel free to email me: anthony@drumbi.com
