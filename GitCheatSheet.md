@@ -99,30 +99,30 @@ Our Processes:
 
 2.	Adding Feature/Bugfix to existing Project
 
-	a.	if you don't have copy of project
-
-	i.	git clone git@github.com:drumbi/project_name.git
-
-	b.	Checkout branch you like branch FROM
-
-	- git checkout branch_name
-
-	c.	Create New Branch with issue#-issue-title
-
-	 - git checkout -b '01-descriptive-branch-title'
-
-	d.	Make your changes, stage, and commit often (repeat as necessary)
-
-	 - git add .
-
-	i.	git commit -m 'useful commit msg'
-
-	e.	Push and Pull Changes back to GitHub often (repeat as necessary)
-
-	 - git push origin branch_name (pushes changes from local to github)
-
-	i.	git pull origin other_branch_name_like_dev  (note: this will merge that branch's code into yours)
-
-	f.	When code is tested and ready, go to github.com, go to project page, at top, tap Pull Request, and specify your branch to the “development” master repo. Include a meaningful description about why the merge is necessary. 
-
-	g.	Maintainer of repository will ok changes in development branch and merge to the master branch. 
+		a.	if you don't have copy of project
+	
+		i.	git clone git@github.com:drumbi/project_name.git
+	
+		b.	Checkout branch you like branch FROM
+	
+		- git checkout branch_name
+	
+		c.	Create New Branch with issue#-issue-title
+	
+		 - git checkout -b '01-descriptive-branch-title'
+	
+		d.	Make your changes, stage, and commit often (repeat as necessary)
+	
+		 - git add .
+	
+		i.	git commit -m 'useful commit msg'
+	
+		e.	Push and Pull Changes back to GitHub often (repeat as necessary)
+	
+		 - git push origin branch_name (pushes changes from local to github)
+	
+		i.	git pull origin other_branch_name_like_dev  (note: this will merge that branch's code into yours)
+	
+		f.	When code is tested and ready, go to github.com, go to project page, at top, tap Pull Request, and specify your branch to the “development” master repo. Include a meaningful description about why the merge is necessary. 
+	
+		g.	Maintainer of repository will ok changes in development branch and merge to the master branch. 
