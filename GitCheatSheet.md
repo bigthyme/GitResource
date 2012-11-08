@@ -1,9 +1,13 @@
-GIT CHEAT SHEET
+##GIT CHEAT SHEET
+
 Git is:
-• A decentralized Version Control
-•	It allows you to store, manage, update, & share code. 
+
+- A decentralized Version Control
+
+- It allows you to store, manage, update, & share code. 
 
 Command Line: 
+
 git <any git command> --help
 
 1.	git commit:
